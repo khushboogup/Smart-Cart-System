@@ -1,7 +1,7 @@
 # Smart-Cart-System
 
-#### Smart Cart System is an IOT(Internet of Things) based project, it will use revolutionize shopping experience by not standing into queue for billing you can do it by using a shopping cart. [ABOUT](https://abhixak.github.io/Cartify/about.html)
-* Unordered Hardware:-
+#### The Smart Cart System is an IoT (Internet of Things) based project designed to revolutionize the shopping experience by eliminating the need to stand in billing queues. Instead, you can complete your billing directly using a shopping cart.[Learn more about the project.](https://abhixak.github.io/Cartify/about.html)
+* Unordered Hardware Component:-
   * Sub RFID
   * Sub LCD
   * Sub Arduino Uno
@@ -9,7 +9,7 @@
   * Sub Push Button
   * Sub Jump Wire
   * Sub Buzzer
-* Unordered Software
+* Unordered Software Requirement:-
   * Sub Arduino IDE
 
 ![WhatsApp Image 2024-04-20 at 14 01 31 (1)](https://github.com/khushboogup/Smart-Cart-System/assets/120629683/b774113f-a017-4053-a6cd-848c95db2850)
